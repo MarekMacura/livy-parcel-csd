@@ -1,0 +1,13 @@
+{
+    "parcels": [
+        {
+            "replaces": "",
+            "hash": "02a289505c82da37bc3b18faa033dafd760f84aa",
+            "depends": "CDH",
+            "components": [],
+            "conflicts": "",
+            "parcelName": "LIVY-0.7.0-el7.parcel"
+        }
+    ],
+    "lastUpdated": 1598368020933
+}
